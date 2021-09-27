@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @corookie
 - 👀 I’m interested in python and javascript
 - 🌱 I’m currently learning machine learning 
-- 📫 How to reach me 18945118328@163.co
+- 📫 How to reach me 18945118328@163.com
